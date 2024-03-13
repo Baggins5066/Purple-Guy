@@ -1,12 +1,12 @@
 {
 	"project": {
-		"name": "Win_Point_Close",
+		"name": "Purple_Guy",
 		"slot": 2,
-		"description": "",
+		"description": "Property of 663D",
 		"platform": "V5",
 		"creationDate": "Thu, 16 Nov 2023 17:02:22 GMT",
 		"language": "cpp",
-		"sdkVersion": "V5_20220726_10_00_00",
+		"sdkVersion": "V5_20240223_11_00_00",
 		"cpp": {
 			"includePath": []
 		}
